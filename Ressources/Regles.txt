@@ -1,0 +1,8 @@
+Placez les billes de multiple couleurs sur le plateau. 
+Chaque joueur a des leviers. 
+À tour de rôle, déplacez un levier pour faire rouler 
+les billes dans les trous. 
+Essayez de faire tomber les billes adverses sans 
+perdre les vôtres. Si une bille tombe, elle est éliminée. 
+Le dernier avec des billes sur le plateau gagne.
+Amusez-vous bien !

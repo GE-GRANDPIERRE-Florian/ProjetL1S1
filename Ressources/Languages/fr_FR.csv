@@ -1,0 +1,8 @@
+Id;Text
+ASK_SLIDER;Quelle slider voulez vous tirer (V/H) + (id) ?
+ASK_DIR;Dans quel direction (Haut et Gauche = -1 les autre = 1)
+SLIDER_MOVE;Tirrette bouger !!!
+WIN;Vous avez gagnée !!!!
+IMPOSSIBLE_SLIDE;Imposible de tirez cette tirrette plus loin
+MONTY_PYTHON_REF;Tis but a crash (Funny Monty Python Ref :-])
+CRASH_MSG;Le vrai message d’erreur était:

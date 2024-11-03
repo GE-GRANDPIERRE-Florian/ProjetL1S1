@@ -1,0 +1,8 @@
+Id;Text
+ASK_SLIDER;Which Slider do you want to pull (V/H) + (id) ?
+ASK_DIR;In which direction (Top or Left = -1, others = 1)
+SLIDER_MOVE;Slider Moved !!!
+WIN;You Win  !!!!
+IMPOSSIBLE_SLIDE;Impossible to pull the slider further
+MONTY_PYTHON_REF;Tis but a crash (Funny Monty Python Ref :-])
+CRASH_MSG;The actual error message was:

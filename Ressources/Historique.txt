@@ -1,0 +1,13 @@
+Historique des deux dernières parties (Non Disponible)
+Exemple :
+
+-------- 05/01/2024 --------
+1er : J2
+2ème : B3
+3ème : J1
+
+-------- 02/01/2024 --------
+1er : J1
+2ème : B4
+3ème : J2
+4ème : J3
